@@ -2,8 +2,8 @@
 
 int main(){
 
-
-float A, B, C, average;
+int A, B, C;
+float average;
 scanf("%d %d %d",&A, &B, &C);
 average = (A + B + C) / 3;
 printf("Average: %.2f", average);
