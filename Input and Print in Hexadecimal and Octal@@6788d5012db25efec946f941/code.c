@@ -4,7 +4,7 @@ int main(){
 int N;
 scanf("%f", &N);
 printf("Hexadecimal: %X", N);
-printf("Octal: %o", N);
+printf("\nOctal: %o", N);
 
     return 0;
 }
