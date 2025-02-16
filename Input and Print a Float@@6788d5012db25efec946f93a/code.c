@@ -1,7 +1,9 @@
 include <stdio h>
 int main(){
-scanf("enter your input",float);
-printf("you enterd:");
- return 0;
+float number;
+printf("enter your input: \n");
+scanf("%f", &number);
+printf("you entered:%.2f\n");
 
+return 0;
 }
