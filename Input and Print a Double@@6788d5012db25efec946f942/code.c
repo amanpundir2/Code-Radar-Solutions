@@ -3,9 +3,9 @@
 int main(){
 
 float A;
-scanf("%f", &A);
+scanf("%lf", &A);
 ;
-printf("You entered: %f",A);
+printf("You entered: %lf",A);
 
     return 0;
 }
