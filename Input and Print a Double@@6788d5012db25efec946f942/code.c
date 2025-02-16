@@ -7,5 +7,5 @@ scanf("%lf", &A);
 ;
 printf("You entered: &lf",A);
 
-    return o;
+    return 0;
 }
