@@ -5,8 +5,7 @@ int num;
 scanf("%d",num);
 if(num&1){
     print("Odd");
-}
-else{
+}else{
     printf("Even");
 }
 
