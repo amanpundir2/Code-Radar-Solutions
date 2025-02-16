@@ -2,10 +2,10 @@
 
 int main(){
 
-float A;
+double A;
 scanf("%lf", &A);
 ;
-printf("You entered: %lf",A);
+printf("You entered: %lf", A);
 
     return 0;
 }
